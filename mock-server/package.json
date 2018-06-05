@@ -1,0 +1,29 @@
+{
+  "name": "trim",
+  "version": "0.0.1",
+  "description": "this is the home of the trim project",
+  "main": "src/erver.js",
+  "scripts": {
+    "start":"node src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevlarIndia/trim.git"
+  },
+  "keywords": [
+    "social",
+    "video",
+    "devlar",
+    "r4reejh"
+  ],
+  "author": "Reejh Ghosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevlarIndia/trim/issues"
+  },
+  "homepage": "https://github.com/DevlarIndia/trim#readme",
+  "dependencies": {
+    "fastify": "^1.5.0"
+  }
+}
