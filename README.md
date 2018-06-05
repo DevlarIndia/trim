@@ -3,6 +3,7 @@ The home of the trim project
 
 ### Running the mock server
 ```
+cd mock-server
 npm i
 npm start
 ```
