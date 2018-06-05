@@ -2,8 +2,9 @@
   "name": "trim",
   "version": "0.0.1",
   "description": "this is the home of the trim project",
-  "main": "server.js",
+  "main": "src/erver.js",
   "scripts": {
+    "start":"node src/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
