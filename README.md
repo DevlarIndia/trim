@@ -1,6 +1,7 @@
 # trim
 The home of the trim project
 
+`TODO: mock server request format`
 ### Running the mock server
 ```
 cd mock-server
