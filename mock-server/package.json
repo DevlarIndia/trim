@@ -4,7 +4,7 @@
   "description": "this is the home of the trim project",
   "main": "src/erver.js",
   "scripts": {
-    "start":"node src/server.js",
+    "start": "node src/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
